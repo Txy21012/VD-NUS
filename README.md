@@ -5,5 +5,3 @@ VD-NUS is a nighttime vehicle detection dataset collected from cameras in the re
 # Download
 - JPEGImages
 - Annotations
-# Benchmarking
-# Citation
